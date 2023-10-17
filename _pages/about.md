@@ -13,11 +13,13 @@ Earlier, I completed a Ph.D. in Computational Mechanics, during which I develope
 
 I also have prior industry experience as a Software Developer and Automation Expert.  
 
-# On-going Projects
+## On-going Projects
 
 I am currently working on a project with [MU Collective](https://mucollective.northwestern.edu/) that emphasizes AI-advised text classification, and robust uncertainty quantification.
 
 The second project I am currently working on is in collaboration with the [Center for Advancing Safety of Machine Intelligence (CASMI)](https://casmi.northwestern.edu/) advised by [Maia Jacobs](https://sites.northwestern.edu/nupath/people/) to [Co-Design Patient-Facing Machine Learning for Prenatal Stress Reduction](https://casmi.northwestern.edu/research/projects/prenatal-stress-reduction.html).
+
+
 
 
 
