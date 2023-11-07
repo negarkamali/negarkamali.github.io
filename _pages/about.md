@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m a second-year PhD student in the Computer Science department at Northwestern University, advised by Professor [Jessica Hullman](http://users.eecs.northwestern.edu/~jhullman/). My interests lie in Human-AI team decision-making, uncertainty quantification and trustworthy decision support systems.More specifically, my research is on enhancing AI-advised decision-making by accurately quantifying the prediction uncertainty of deep Neural Networks (NNs). I explore the effectiveness of conformal prediction sets as an alternative to traditional uncertainty measures, and how they impact human decisions in various real-world scenarios.
+I’m a second-year Ph.D. student in the Computer Science department at Northwestern University, advised by Professor [Jessica Hullman](http://users.eecs.northwestern.edu/~jhullman/). My interests lie in Human-AI team decision-making, uncertainty quantification and trustworthy decision support systems. More specifically, my research is on enhancing AI-advised decision-making by accurately quantifying the prediction uncertainty of deep Neural Networks (NNs). I explore the effectiveness of conformal prediction sets as an alternative to traditional uncertainty measures, and how they impact human decisions in various real-world scenarios.
 
-Earlier, I completed a Ph.D. in Computational Mechanics, during which I developed several advanced numerical methods for solving nonlinear wave propagation PDEs. Following my passion in understanding how AI impacts human decision-making, I began a second Ph.D. in Computer Science at Northwestern University.
+Earlier, I completed a Ph.D. in Computational Mechanics, during which I developed several advanced numerical methods for solving nonlinear wave propagation PDEs. Following my passion in understanding how AI impacts human decision-making, I began a second Ph.D. in Computer Science at Northwestern University. 
 
 I also have prior industry experience as a Software Developer and Automation Expert.  
 
