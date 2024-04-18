@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Negar Kamali"
+title: "Hi, I'm Negar Kamali."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I’m a second-year Ph.D. student in the Computer Science department at Northwestern University, advised by Professors [Matt Groh](https://mattgroh.com/) and [Jessica Hullman](http://users.eecs.northwestern.edu/~jhullman/). My interests lie in Human-AI team decision-making, uncertainty quantification and trustworthy decision support systems. More specifically, my research is on enhancing AI-advised decision-making by accurately quantifying the prediction uncertainty of deep Neural Networks (NNs). I explore the effectiveness of conformal prediction sets as an alternative to traditional uncertainty measures, and how they impact human decisions in various real-world scenarios.
+I’m a second-year Ph.D. student in the Computer Science department at Northwestern University, advised by Professors [Matt Groh](https://mattgroh.com/) and [Jessica Hullman](http://users.eecs.northwestern.edu/~jhullman/). My interests lie in Human-AI team decision-making, uncertainty quantification, and trustworthy decision support systems. More specifically, my research is on enhancing AI-advised decision-making by accurately quantifying the prediction uncertainty of deep Neural Networks (NNs). I explore the effectiveness of conformal prediction sets as an alternative to traditional uncertainty measures, and how they impact human decisions in various real-world scenarios.
 
 I have worked on a project as a PhD student in [MU Collective lab](https://mucollective.northwestern.edu/) that measured the [Utility of Conformal Prediction Sets for AI-advised Image Labeling](https://mucollective.northwestern.edu/). This work is published in Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems.
 
