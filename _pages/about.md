@@ -1,13 +1,23 @@
 ---
 permalink: /
 title: "Hi, I'm Negar Kamali."
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+layout: about
+subtitle: Third year PhD Student, Northwestern CS, Evanston
+
+profile:
+  align: right
+  image: IMG_8031.jpeg
+  image_circular: false # crops the image to make it circular
+  # more_info: >
+    # <p>Rising 4th year PhD Student</p>
+    # <p>Northwestern CS</p>
+    # <p>Evanston</p>
+
+news: false # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 ---
-I’m a third-year Ph.D. student in the Computer Science department at Northwestern University, advised by Professors [Matt Groh](https://mattgroh.com/) and [Jessica Hullman](http://users.eecs.northwestern.edu/~jhullman/). I am a multidisciplinary researcher motivated by the growing challenges posed by artificial intelligence (AI), particularly as it begins to exceed human abilities to fully understand its processes and outcomes. I focus on addressing the critical need for humans to understand and interact effectively with advanced AI systems, including deepfakes and large language models (LLMs), to enhance human ability to recognize, respond to, and benefit from these technologies.
+I’m a rising fourth-year Ph.D. student in the Computer Science department at Northwestern University, advised by Professors [Matt Groh](https://mattgroh.com/) and [Jessica Hullman](http://users.eecs.northwestern.edu/~jhullman/). I am a multidisciplinary researcher motivated by the growing challenges posed by artificial intelligence (AI), particularly as it begins to exceed human abilities to fully understand its processes and outcomes. I focus on addressing the critical need for humans to understand and interact effectively with advanced AI systems, including deepfakes and large language models (LLMs), to enhance human ability to recognize, respond to, and benefit from these technologies.
 
 In my past life, I completed a Ph.D. in Computational Mechanics, during which I developed several advanced numerical methods for solving nonlinear wave propagation PDEs. Following my passion in understanding how AI impacts human decision-making, I began a second Ph.D. in Computer Science at Northwestern University. [This](https://www.sciencedirect.com/science/article/pii/S2589004221006477) sparked my decision to go back to academia and do research on human-AI collaboration.
 
