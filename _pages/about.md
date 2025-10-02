@@ -29,8 +29,8 @@ Think you have what it takes to distinguish real photos from AI generated images
 - 📑 **CHI 2025** – Presented *"Characterizing Photorealism and Artifacts in Diffusion Model-Generated Images"*  
   [🎥 Demo video](https://youtu.be/PL_ggNzMd-o?si=c8pqfcB3WJU5Ly5O)
 
-- 🎙️ **AI and Disinformation Summit** (Panelist, By Invitation), Carnegie Mellon University, Pittsburgh, PA, Jan 2025  
-- 🎙️ **Laboratory for Analytical Science Symposium**, North Carolina State University, Raleigh, NC, Dec 2024  
+- 🎙️ **Panelist at AI and Disinformation Summit** (By Invitation), Carnegie Mellon University, Pittsburgh, PA, Jan 2025  
+- 🎙️ **Talk at Laboratory for Analytical Science Symposium**, North Carolina State University, Raleigh, NC, Dec 2024  
 
 ### 📰 Media Coverage
 
