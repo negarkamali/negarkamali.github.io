@@ -7,6 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+toc: true
+toc_sticky: true
+toc_label: "On this page"
+---
+
 I’m a fourth-year Ph.D. student in the Computer Science department at Northwestern University, advised by Professors [Matt Groh](https://mattgroh.com/) and [Jessica Hullman](http://users.eecs.northwestern.edu/~jhullman/). I am a multidisciplinary researcher motivated by the growing challenges posed by artificial intelligence (AI), particularly as it begins to exceed human abilities to fully understand its processes and outcomes. I focus on addressing the critical need for humans to understand and interact effectively with advanced AI systems, including deepfakes and large language models (LLMs), to enhance human ability to recognize, respond to, and benefit from these technologies.
 
 In my past life, I completed a Ph.D. in Computational Mechanics, during which I developed several advanced numerical methods for solving nonlinear wave propagation PDEs. Following my passion in understanding how AI impacts human decision-making, I began a second Ph.D. in Computer Science at Northwestern University. [This](https://www.sciencedirect.com/science/article/pii/S2589004221006477) sparked my decision to go back to academia and do research on human-AI collaboration.
