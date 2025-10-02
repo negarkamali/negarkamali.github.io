@@ -2,15 +2,16 @@
 permalink: /
 title: "Hi, I'm Negar Kamali."
 excerpt: "About me"
+layout: single
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
 toc: true
 toc_sticky: true
 toc_label: "On this page"
 ---
+
 
 I’m a fourth-year Ph.D. student in the Computer Science department at Northwestern University, advised by Professors [Matt Groh](https://mattgroh.com/) and [Jessica Hullman](http://users.eecs.northwestern.edu/~jhullman/). I am a multidisciplinary researcher motivated by the growing challenges posed by artificial intelligence (AI), particularly as it begins to exceed human abilities to fully understand its processes and outcomes. I focus on addressing the critical need for humans to understand and interact effectively with advanced AI systems, including deepfakes and large language models (LLMs), to enhance human ability to recognize, respond to, and benefit from these technologies.
 
