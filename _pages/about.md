@@ -19,6 +19,26 @@ The main project I am working on is investigating how people detect AI-generated
 
 Think you have what it takes to distinguish real photos from AI generated images? Put your skills to the test on our [DetectFakes](https://detectfakes.kellogg.northwestern.edu/) website!
 
+## 📰 News
+
+### Upcoming
+- 🎤 **Talk at CODE@MIT 2025 (Nov 2025)**  
+  Presenting *"Do Brief How-To Trainings Improve Human Detection of AI-Generated Images? Evidence from a Randomized Study with Government Analysts"*.
+
+### Recent
+- 📑 **CHI 2025** – Presented *"Characterizing Photorealism and Artifacts in Diffusion Model-Generated Images"*  
+  [🎥 Demo video](https://youtu.be/PL_ggNzMd-o?si=c8pqfcB3WJU5Ly5O)
+
+- 🎙️ **AI and Disinformation Summit** (Panelist, By Invitation), Carnegie Mellon University, Pittsburgh, PA, Jan 2025  
+- 🎙️ **Laboratory for Analytical Science Symposium**, North Carolina State University, Raleigh, NC, Dec 2024  
+
+### 📰 Media Coverage
+
+- 🧠 [*New Scientist:* How to Avoid Being Fooled by AI-Generated Misinformation](https://www.newscientist.com/article/2445475-how-to-avoid-being-fooled-by-ai-generated-misinformation/)  
+- 🎓 [*Kellogg Insight:* Can You Tell if These Photos Are AI-Generated?](https://insight.kellogg.northwestern.edu/article/ai-photos-identification?utm_medium=social)  
+- 🎥 [*Mashable:* How to identify AI-generated videos](https://mashable.com/article/how-identify-ai-generated-videos)  
+- 🔍 [*Kellogg Insight:* When Put to the Test, Are We Any Good at Spotting AI Fakes?](https://insight.kellogg.northwestern.edu/article/are-we-any-good-at-spotting-ai-fakes)  
+- 🤖 [*Technology Magazine:* Does Google’s Veo 3 Do Enough to Distinguish AI and Reality?](https://technologymagazine.com/articles/does-googles-veo-3-do-enough-to-distinguish-ai-and-reality)  
 
 ## Past Projects
 
