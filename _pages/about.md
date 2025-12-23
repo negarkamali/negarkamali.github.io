@@ -43,11 +43,12 @@ Think you have what it takes to distinguish real photos from AI generated images
 
 ### 📰 Media Coverage
 
-- 🧠 [*New Scientist:* How to Avoid Being Fooled by AI-Generated Misinformation](https://www.newscientist.com/article/2445475-how-to-avoid-being-fooled-by-ai-generated-misinformation/)  
-- 🎓 [*Kellogg Insight:* Can You Tell if These Photos Are AI-Generated?](https://insight.kellogg.northwestern.edu/article/ai-photos-identification?utm_medium=social)  
-- 🎥 [*Mashable:* How to identify AI-generated videos](https://mashable.com/article/how-identify-ai-generated-videos)  
-- 🔍 [*Kellogg Insight:* When Put to the Test, Are We Any Good at Spotting AI Fakes?](https://insight.kellogg.northwestern.edu/article/are-we-any-good-at-spotting-ai-fakes)  
-- 🤖 [*Technology Magazine:* Does Google’s Veo 3 Do Enough to Distinguish AI and Reality?](https://technologymagazine.com/articles/does-googles-veo-3-do-enough-to-distinguish-ai-and-reality)  
+-  [*New Scientist:* How to Avoid Being Fooled by AI-Generated Misinformation](https://www.newscientist.com/article/2445475-how-to-avoid-being-fooled-by-ai-generated-misinformation/)  
+-  [*Kellogg Insight:* Can You Tell if These Photos Are AI-Generated?](https://insight.kellogg.northwestern.edu/article/ai-photos-identification?utm_medium=social)  
+-  [*Mashable:* How to identify AI-generated videos](https://mashable.com/article/how-identify-ai-generated-videos)  
+-  [*Kellogg Insight:* When Put to the Test, Are We Any Good at Spotting AI Fakes?](https://insight.kellogg.northwestern.edu/article/are-we-any-good-at-spotting-ai-fakes)  
+-  [*Technology Magazine:* Does Google’s Veo 3 Do Enough to Distinguish AI and Reality?](https://technologymagazine.com/articles/does-googles-veo-3-do-enough-to-distinguish-ai-and-reality)
+-  [*Asahi*: (In Japanese)](https://globe.asahi.com/article/15886926) 
 
 ## Past Projects
 
