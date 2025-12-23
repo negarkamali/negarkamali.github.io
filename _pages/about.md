@@ -48,7 +48,7 @@ Think you have what it takes to distinguish real photos from AI generated images
 -  [*Mashable:* How to identify AI-generated videos](https://mashable.com/article/how-identify-ai-generated-videos)  
 -  [*Kellogg Insight:* When Put to the Test, Are We Any Good at Spotting AI Fakes?](https://insight.kellogg.northwestern.edu/article/are-we-any-good-at-spotting-ai-fakes)  
 -  [*Technology Magazine:* Does Google’s Veo 3 Do Enough to Distinguish AI and Reality?](https://technologymagazine.com/articles/does-googles-veo-3-do-enough-to-distinguish-ai-and-reality)
--  [*Asahi*: (In Japanese)](https://globe.asahi.com/article/15886926) 
+-  [*Asahi*: What to look for to spot fake images? US researchers develop "skill-up site" (In Japanese)](https://globe.asahi.com/article/15886926) 
 
 ## Past Projects
 
