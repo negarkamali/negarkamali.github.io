@@ -60,8 +60,9 @@ nav.top-nav {
   flex-wrap: wrap;
   gap: 6px 18px;
   margin-bottom: 20px;
-  padding-bottom: 10px;
-  border-bottom: 1px solid var(--clr-border);
+  padding: 12px 16px;
+  background-color: #d6cdb8;
+  border-radius: 10px;
 }
 
 nav.top-nav a {
