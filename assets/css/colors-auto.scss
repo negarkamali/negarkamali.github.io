@@ -1,0 +1,15 @@
+---
+---
+
+@import "colors";
+
+:root {
+    @include colors;
+    @include light-colors;
+  }
+
+@media screen and (prefers-color-scheme: dark) {
+  :root{
+    @include dark-colors;
+  }
+}

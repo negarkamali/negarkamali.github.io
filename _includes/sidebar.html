@@ -1,25 +1,20 @@
-{% include base_path %}
+<div class="link-wrapper">
+  <style scoped>
+    ul.link a {
+      color:var(--clr-h1-and-bold);
+      text-decoration:none;
+    }
 
-{% if page.author_profile or layout.author_profile or page.sidebar %}
-  <div class="sidebar sticky">
-  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
-  {% if page.sidebar %}
-    {% for s in page.sidebar %}
-      {% if s.image %}
-        <img src=
-        {% if s.image contains "://" %}
-          "{{ s.image }}"
-        {% else %}
-          "{{ s.image | prepend: "/images/" | prepend: base_path }}"
-        {% endif %}
-        alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
-      {% endif %}
-      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
-      {% if s.text %}{{ s.text | markdownify }}{% endif %}
-    {% endfor %}
-    {% if page.sidebar.nav %}
-      {% include nav_list nav=page.sidebar.nav %}
-    {% endif %}
-  {% endif %}
-  </div>
-{% endif %}
+    ul.link a:hover, a:focus {
+      color: #4E2A84;
+      text-decoration: underline;
+    }
+  </style>
+  <ul class="link">
+    <li><a href="mailto:negar.kamali@u.northwestern.edu" target="_blank"><i class="fa fa-envelope"></i> Email</a></li>
+    <li><a href="https://scholar.google.com/citations?user=BtbeIckAAAAJ&hl=en" target="_blank"><i class="fas fa-user-graduate"></i> Google Scholar</a></li>
+    <li><a href="https://github.com/negarkamali" target="_blank"><i class="fab fa-github"></i> GitHub</a></li>
+    <li><a href="https://www.linkedin.com/in/negar-kamali/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a></li>
+  </ul>
+  <br>
+</div>
