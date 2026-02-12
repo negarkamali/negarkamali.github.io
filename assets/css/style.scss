@@ -10,10 +10,26 @@
     margin-bottom: 10px;
 }
 
-/* Override font to Noto Sans, match Taewook's 14px */
+/* Override font to Noto Sans, match Taewook's sizes */
 body {
   font-family: "Noto Sans", sans-serif;
   font-size: 14px;
+}
+
+h1, h2, h3 {
+  line-height: 1.1;
+}
+
+h1 {
+  font-size: 26px;
+}
+
+h2 {
+  color: var(--clr-h2);
+}
+
+h3, h4, h5, h6 {
+  color: var(--clr-h-3-6);
 }
 
 /* Lighter Northwestern purple for links */
@@ -32,6 +48,32 @@ p.bio {
   font-size: 13px;
   color: var(--clr-text);
   margin: 0 0 10px;
+}
+
+/* Horizontal nav tabs at top of content */
+nav.top-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 18px;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--clr-border);
+}
+
+nav.top-nav a {
+  font-size: 14px;
+  color: var(--clr-text);
+  text-decoration: none;
+}
+
+nav.top-nav a:hover {
+  color: #4E2A84;
+  text-decoration: underline;
+}
+
+nav.top-nav a.active {
+  color: #7B52AB;
+  font-weight: 600;
 }
 
 /* Publication card with thumbnail */
