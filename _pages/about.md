@@ -28,7 +28,7 @@ Before my current PhD, I completed a Ph.D. in Computational Mechanics, where I d
 **Characterizing Photorealism and Artifacts in Diffusion Model-Generated Images**
 Negar Kamali, Karyn Nakamura, Aakriti Kumar, Angelos Chatzimparmpas, Matthew Groh.
 *CHI 2025* -- Proceedings of the ACM Conference on Human Factors in Computing Systems.
-[Paper](https://doi.org/10.1145/3706598.3713784) | [Demo video](https://youtu.be/PL_ggNzMd-o?si=c8pqfcB3WJU5Ly5O)
+[Paper](https://dl.acm.org/doi/full/10.1145/3706598.3713962) | [Demo video](https://youtu.be/PL_ggNzMd-o?si=c8pqfcB3WJU5Ly5O)
 
 **How to Distinguish AI-Generated Images from Authentic Photographs**
 Negar Kamali, Karyn Nakamura, Angelos Chatzimparmpas, Jessica Hullman, Matthew Groh.
