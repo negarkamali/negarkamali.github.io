@@ -17,6 +17,10 @@ body {
   background-color: #f5f0e8 !important;
 }
 
+.wrapper, section, .sidebar, .sidebar header {
+  background: transparent !important;
+}
+
 h1, h2, h3 {
   line-height: 1.1;
 }
