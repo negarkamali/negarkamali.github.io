@@ -37,7 +37,7 @@ Before my current PhD, I completed a Ph.D. in Computational Mechanics, where I d
   <img class="pub-thumb" src="/images/pub-chi2024.png" alt="CHI 2024">
   <div class="pub-details">
     <a href="https://arxiv.org/abs/2401.08876" target="_blank">Utility of Conformal Prediction Sets for AI-Advised Image Labeling</a><br>
-    <b>Negar Kamali</b> et al.<br>
+    Dongping Zhang, Angelos Chatzimparmpas, <b>Negar Kamali</b>, Jessica Hullman.<br>
     <i>CHI 2024.</i> | <a href="https://arxiv.org/abs/2401.08876" target="_blank">Paper</a><br>
     <b style="background-color:#e0e0e0;">&#8203; Best Paper Honorable Mention &#8203;</b>
   </div>
