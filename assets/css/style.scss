@@ -34,11 +34,11 @@ h2 {
 }
 
 h2 {
-  color: var(--clr-h2);
+  color: #383838;
 }
 
 h3, h4, h5, h6 {
-  color: var(--clr-h-3-6);
+  color: #4a4a4a;
 }
 
 /* Lighter Northwestern purple for links */
@@ -55,7 +55,7 @@ a:hover, a:focus {
 /* Bio text under name */
 p.bio {
   font-size: 13px;
-  color: var(--clr-text);
+  color: #555;
   margin: 0 0 10px;
 }
 
@@ -72,7 +72,7 @@ nav.top-nav {
 
 nav.top-nav a {
   font-size: 14px;
-  color: var(--clr-text);
+  color: #333;
   text-decoration: none;
 }
 
@@ -116,5 +116,48 @@ nav.top-nav a.active {
     width: 100%;
     height: auto;
     max-height: 160px;
+  }
+}
+
+/* ===== Fix 1: Force light-mode text colors =====
+   The body uses a forced light sepia background (#f5f0e8).
+   Without this override, dark-mode users get near-white text
+   on a light background (unreadable). */
+@media screen and (prefers-color-scheme: dark) {
+  :root {
+    --L-h1-and-bold: 13%;
+    --L-h2: 22%;
+    --L-h-3-6: 29%;
+    --L-text: 45%;
+    --L-text-bold: 36%;
+    --L-bg: 100%;
+    --L-splitter-blockquote-and-section: 90%;
+    --L-small-in-a: 47%;
+    --L-table-header-and-dt: 27%;
+  }
+}
+
+/* ===== Fix 2: Show profile image on mobile ===== */
+@media screen and (max-width: 960px) {
+  .img-circle {
+    display: block !important;
+    max-width: 150px;
+    margin: 0 auto 10px;
+  }
+
+  /* Constrain mobile link icon sizes */
+  .link-wrapper-mobile ul.link {
+    font-size: 14px;
+    padding: 0;
+    list-style: none;
+  }
+
+  .link-wrapper-mobile ul.link li {
+    display: inline-block;
+    margin-right: 12px;
+  }
+
+  .link-wrapper-mobile ul.link i {
+    font-size: 16px;
   }
 }
