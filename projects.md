@@ -6,7 +6,7 @@ permalink: /projects/
 
 ## Current Projects
 
-I am investigating how people detect AI-generated images and what factors make them miss the subtle artifacts these images contain, under supervision of <a href="https://mattgroh.com/" target="_blank">Matt Groh</a> at Kellogg School of Management. My research aims to develop tools and techniques to enhance human ability to distinguish between real and synthetic images. In a world where AI-generated images are increasingly realistic, understanding how people perceive them is crucial for combating misinformation and maintaining trust in visual media.
+I am investigating how people detect AI-generated images and what factors make them miss the subtle artifacts these images contain, under supervision of <a href="https://mattgroh.com/" target="_blank">Matt Groh</a> and <a href="http://users.eecs.northwestern.edu/~jhullman/" target="_blank">Jessica Hullman</a> at Northwestern. My research aims to develop tools and techniques to enhance human ability to distinguish between real and synthetic images. In a world where AI-generated images are increasingly realistic, understanding how people perceive them is crucial for combating misinformation and maintaining trust in visual media.
 
 Think you can distinguish real photos from AI-generated images? Try our <a href="https://detectfakes.kellogg.northwestern.edu/" target="_blank">DetectFakes</a> website!
 
