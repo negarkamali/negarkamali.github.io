@@ -35,6 +35,7 @@ permalink: /publications/
 </div>
 
 <div class="pub-entry">
+  <img class="pub-thumb" src="/images/pub-isrii2024.png" alt="ISRII 2024">
   <div class="pub-details">
     <a href="https://sites.northwestern.edu/nupath/research/casmi-co-designing-patient-facing-machine-learning-for-prenatal-stress-reduction/" target="_blank">Co-Designing Patient-Facing Machine Learning for Prenatal Stress Reduction</a><br>
     Mara Ulloa, <b>Negar Kamali</b>, Gabriella Fernandes, Emmanuel Soyemi, Maia Beltzer, Brenna Kaveladze, Nabil Alshurafa, Maia Jacobs.<br>
