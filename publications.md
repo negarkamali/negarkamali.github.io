@@ -73,6 +73,7 @@ permalink: /publications/
 </div>
 
 <div class="pub-entry">
+  <img class="pub-thumb" src="/images/pub-wavelet2017.png" alt="Measurement 2017">
   <div class="pub-details">
     <a href="https://doi.org/10.1016/j.measurement.2017.04.013" target="_blank">Wavelet Based Harmonics Decomposition of Ultrasonic Signal in Assessment of Plastic Strain in Aluminum</a><br>
     Amir Mostavi, <b>Negar Kamali</b>, Niloofar Tehrani, Sheng-Wei Chi, Didem Ozevin, J. Ernesto Indacochea.<br>
