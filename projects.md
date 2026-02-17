@@ -12,6 +12,6 @@ Think you can distinguish real photos from AI-generated images? Try our <a href=
 
 ## Past Projects
 
-**Conformal Prediction for AI-Advised Decisions:** I researched enhancing AI-advised decision-making by accurately quantifying prediction uncertainty of deep neural networks. I explored the effectiveness of conformal prediction sets as an alternative to traditional uncertainty measures, measuring how they impact human decisions in real-world image labeling scenarios. This work received a **Best Paper Honorable Mention** at CHI 2024.
+**Conformal Prediction for AI-Advised Decisions:** Advised by <a href="http://users.eecs.northwestern.edu/~jhullman/" target="_blank">Jessica Hullman</a>, I researched enhancing AI-advised decision-making by accurately quantifying prediction uncertainty of deep neural networks. I explored the effectiveness of conformal prediction sets as an alternative to traditional uncertainty measures, measuring how they impact human decisions in real-world image labeling scenarios. This work received a **Best Paper Honorable Mention** at CHI 2024.
 
 **Prenatal Stress Reduction:** In collaboration with the <a href="https://casmi.northwestern.edu/" target="_blank">Center for Advancing Safety of Machine Intelligence (CASMI)</a>, advised by <a href="https://sites.northwestern.edu/nupath/people/" target="_blank">Maia Jacobs</a>, I worked on <a href="https://casmi.northwestern.edu/research/projects/prenatal-stress-reduction.html" target="_blank">co-designing patient-facing machine learning for prenatal stress reduction</a>.
