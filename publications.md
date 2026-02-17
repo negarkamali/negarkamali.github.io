@@ -46,6 +46,7 @@ permalink: /publications/
 ### Previous Research (Computational Mechanics)
 
 <div class="pub-entry">
+  <img class="pub-thumb" src="/images/pub-rk2020.jpg" alt="J. Eng. Mechanics 2020">
   <div class="pub-details">
     <a href="https://ascelibrary.org/doi/10.1061/(ASCE)EM.1943-7889.0001727" target="_blank">Harmonic-Enriched Reproducing Kernel Approximation for Highly Oscillatory Differential Equations</a><br>
     Ashkan Mahdavi, Sheng-Wei Chi, <b>Negar Kamali</b>.<br>
