@@ -64,6 +64,7 @@ permalink: /publications/
 </div>
 
 <div class="pub-entry">
+  <img class="pub-thumb" src="/images/pub-influence2019.png" alt="J. Nondestruct. Eval. 2019">
   <div class="pub-details">
     <a href="https://doi.org/10.1007/s10921-019-0593-6" target="_blank">Influence of Mesoscale and Macroscale Heterogeneities in Metals on Higher Harmonics Under Plastic Deformation</a><br>
     <b>Negar Kamali</b>, Niloofar Tehrani, Amir Mostavi, Sheng-Wei Chi, Didem Ozevin, J. Ernesto Indacochea.<br>
