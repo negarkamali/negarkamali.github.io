@@ -55,6 +55,7 @@ permalink: /publications/
 </div>
 
 <div class="pub-entry">
+  <img class="pub-thumb" src="/images/pub-harmonics2020.png" alt="Nondestruct. Test. Eval. 2020">
   <div class="pub-details">
     <a href="https://www.tandfonline.com/doi/full/10.1080/10589759.2019.1652295" target="_blank">Numerical Study on How Heterogeneity Affects Ultrasound High Harmonics Generation</a><br>
     <b>Negar Kamali</b>, Ashkan Mahdavi, Sheng-Wei Chi.<br>
