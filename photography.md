@@ -29,8 +29,6 @@ Shot on 35mm film (Kodak ColorPlus 200) during a trip to Tehran.
 <a href="/images/photography/tehran-2019/20350012.jpg" target="_blank"><img src="/images/photography/tehran-2019/20350012.jpg" alt="Tehran 2019" loading="lazy"></a>
 <a href="/images/photography/tehran-2019/20350013.jpg" target="_blank"><img src="/images/photography/tehran-2019/20350013.jpg" alt="Tehran 2019" loading="lazy"></a>
 <a href="/images/photography/tehran-2019/20350014.jpg" target="_blank"><img src="/images/photography/tehran-2019/20350014.jpg" alt="Tehran 2019" loading="lazy"></a>
-<a href="/images/photography/tehran-2019/20350015.jpg" target="_blank"><img src="/images/photography/tehran-2019/20350015.jpg" alt="Tehran 2019" loading="lazy"></a>
-<a href="/images/photography/tehran-2019/20350016.jpg" target="_blank"><img src="/images/photography/tehran-2019/20350016.jpg" alt="Tehran 2019" loading="lazy"></a>
 <a href="/images/photography/tehran-2019/20350017.jpg" target="_blank"><img src="/images/photography/tehran-2019/20350017.jpg" alt="Tehran 2019" loading="lazy"></a>
 <a href="/images/photography/tehran-2019/20350018.jpg" target="_blank"><img src="/images/photography/tehran-2019/20350018.jpg" alt="Tehran 2019" loading="lazy"></a>
 <a href="/images/photography/tehran-2019/20350019.jpg" target="_blank"><img src="/images/photography/tehran-2019/20350019.jpg" alt="Tehran 2019" loading="lazy"></a>
@@ -48,7 +46,6 @@ Shot on 35mm film (Kodak ColorPlus 200) during a trip to Tehran.
 <a href="/images/photography/tehran-2019/20350031.jpg" target="_blank"><img src="/images/photography/tehran-2019/20350031.jpg" alt="Tehran 2019" loading="lazy"></a>
 <a href="/images/photography/tehran-2019/20350032.jpg" target="_blank"><img src="/images/photography/tehran-2019/20350032.jpg" alt="Tehran 2019" loading="lazy"></a>
 <a href="/images/photography/tehran-2019/20350033.jpg" target="_blank"><img src="/images/photography/tehran-2019/20350033.jpg" alt="Tehran 2019" loading="lazy"></a>
-<a href="/images/photography/tehran-2019/20350034.jpg" target="_blank"><img src="/images/photography/tehran-2019/20350034.jpg" alt="Tehran 2019" loading="lazy"></a>
 <a href="/images/photography/tehran-2019/20350035.jpg" target="_blank"><img src="/images/photography/tehran-2019/20350035.jpg" alt="Tehran 2019" loading="lazy"></a>
 <a href="/images/photography/tehran-2019/20350036.jpg" target="_blank"><img src="/images/photography/tehran-2019/20350036.jpg" alt="Tehran 2019" loading="lazy"></a>
 <a href="/images/photography/tehran-2019/20350037.jpg" target="_blank"><img src="/images/photography/tehran-2019/20350037.jpg" alt="Tehran 2019" loading="lazy"></a>
