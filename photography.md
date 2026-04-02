@@ -6,7 +6,7 @@ permalink: /photography/
 
 ## Photography
 
-I document my family, travels to Iran, and scenes from Chicago.
+I photograph my family and friends, travels to Iran and other parts of the world, and scenes from daily life in Chicago.
 
 <div class="masonry">
 <div class="masonry-item"><img src="/images/photography/my-photos/Alcatraz.JPG" alt="Alcatraz" loading="lazy"></div>
