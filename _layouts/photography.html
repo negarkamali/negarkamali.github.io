@@ -1,0 +1,48 @@
+{% case site.color-scheme %}
+  {% when "", nil, false, 0, empty %}
+    {% assign ColorScheme = "auto" %}
+  {% else %}
+    {% assign ColorScheme = site.color-scheme %}
+{% endcase %}
+
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/colors-ColorScheme.css?v=" | replace: "ColorScheme", ColorScheme | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+
+    <style>
+      body { background: #000; color: #ccc; }
+      .wrapper { max-width: 1200px; margin: 0 auto; padding: 20px; }
+      .wrapper .sidebar { display: none; }
+      section { width: 100%; max-width: 100%; margin: 0; padding: 0; }
+      .top-nav { margin-bottom: 30px; }
+      .top-nav a { color: #aaa; }
+      .top-nav a:hover, .top-nav a.active { color: #fff; }
+      footer { display: none; }
+      h2, h3 { color: #eee; }
+      a { color: #aaa; }
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <section>
+
+      {% include nav.html %}
+
+      {{ content }}
+
+      </section>
+    </div>
+  </body>
+</html>

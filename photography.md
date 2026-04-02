@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: photography
 title: Photography
 permalink: /photography/
 ---
@@ -14,7 +14,7 @@ I document my family, travels to Iran, and scenes from Chicago. Most of my perso
 
 Shot on 35mm film (Kodak ColorPlus 200) during a trip to Tehran.
 
-<div class="photo-grid">
+<div class="masonry">
 <a href="/images/photography/tehran-2019/20350001.jpg" target="_blank"><img src="/images/photography/tehran-2019/20350001.jpg" alt="Tehran 2019" loading="lazy"></a>
 <a href="/images/photography/tehran-2019/20350002.jpg" target="_blank"><img src="/images/photography/tehran-2019/20350002.jpg" alt="Tehran 2019" loading="lazy"></a>
 <a href="/images/photography/tehran-2019/20350003.jpg" target="_blank"><img src="/images/photography/tehran-2019/20350003.jpg" alt="Tehran 2019" loading="lazy"></a>
@@ -55,32 +55,29 @@ Shot on 35mm film (Kodak ColorPlus 200) during a trip to Tehran.
 </div>
 
 <style>
-.photo-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 8px;
+.masonry {
+  columns: 3;
+  column-gap: 6px;
   margin-top: 16px;
 }
-.photo-grid a {
+.masonry a {
   display: block;
+  margin-bottom: 6px;
+  break-inside: avoid;
   overflow: hidden;
 }
-.photo-grid img {
+.masonry img {
   width: 100%;
-  height: 250px;
-  object-fit: cover;
-  transition: transform 0.2s;
-  cursor: pointer;
+  display: block;
+  transition: opacity 0.2s;
 }
-.photo-grid img:hover {
-  transform: scale(1.03);
+.masonry img:hover {
+  opacity: 0.85;
 }
-@media (max-width: 600px) {
-  .photo-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-  .photo-grid img {
-    height: 180px;
-  }
+@media (max-width: 800px) {
+  .masonry { columns: 2; }
+}
+@media (max-width: 500px) {
+  .masonry { columns: 1; }
 }
 </style>
