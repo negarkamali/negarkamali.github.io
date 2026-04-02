@@ -1,0 +1,106 @@
+<!-- Lightbox overlay -->
+<div id="lightbox">
+  <span id="lb-close">&times;</span>
+  <span id="lb-prev">&#10094;</span>
+  <span id="lb-next">&#10095;</span>
+  <img id="lightbox-img" src="" alt="">
+</div>
+
+<style>
+#lightbox {
+  display: none;
+  position: fixed;
+  top: 0; left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.96);
+  z-index: 9999;
+  justify-content: center;
+  align-items: center;
+}
+#lightbox img {
+  max-width: 88vw;
+  max-height: 90vh;
+  object-fit: contain;
+}
+#lb-close {
+  position: fixed;
+  top: 16px;
+  right: 24px;
+  color: #888;
+  font-size: 32px;
+  cursor: pointer;
+  z-index: 10000;
+  transition: color 0.2s;
+  font-family: sans-serif;
+}
+#lb-close:hover { color: #fff; }
+#lb-prev, #lb-next {
+  position: fixed;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #666;
+  font-size: 40px;
+  cursor: pointer;
+  z-index: 10000;
+  padding: 16px;
+  transition: color 0.2s;
+  user-select: none;
+}
+#lb-prev { left: 12px; }
+#lb-next { right: 12px; }
+#lb-prev:hover, #lb-next:hover { color: #fff; }
+</style>
+
+<script>
+(function() {
+  var images = [];
+  var currentIndex = 0;
+  var lb = document.getElementById('lightbox');
+  var lbImg = document.getElementById('lightbox-img');
+
+  document.querySelectorAll('.masonry-item img').forEach(function(img, i) {
+    images.push(img.src);
+    img.addEventListener('click', function() {
+      currentIndex = i;
+      lbImg.src = images[currentIndex];
+      lb.style.display = 'flex';
+    });
+  });
+
+  function showImage(index) {
+    if (index < 0) index = images.length - 1;
+    if (index >= images.length) index = 0;
+    currentIndex = index;
+    lbImg.src = images[currentIndex];
+  }
+
+  document.getElementById('lb-close').addEventListener('click', function(e) {
+    e.stopPropagation();
+    lb.style.display = 'none';
+  });
+
+  document.getElementById('lb-prev').addEventListener('click', function(e) {
+    e.stopPropagation();
+    showImage(currentIndex - 1);
+  });
+
+  document.getElementById('lb-next').addEventListener('click', function(e) {
+    e.stopPropagation();
+    showImage(currentIndex + 1);
+  });
+
+  lb.addEventListener('click', function(e) {
+    if (e.target === lb || e.target === lbImg) {
+      lb.style.display = 'none';
+    }
+  });
+
+  document.addEventListener('keydown', function(e) {
+    if (lb.style.display !== 'flex') return;
+    if (e.key === 'Escape') lb.style.display = 'none';
+    if (e.key === 'ArrowLeft') showImage(currentIndex - 1);
+    if (e.key === 'ArrowRight') showImage(currentIndex + 1);
+  });
+})();
+</script>

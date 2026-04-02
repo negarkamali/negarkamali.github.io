@@ -52,10 +52,7 @@ Shot on 35mm film (Kodak ColorPlus 200) during a trip to Tehran.
   <span class="page-current">2</span>
 </div>
 
-<!-- Lightbox overlay -->
-<div id="lightbox" onclick="this.style.display='none'">
-  <img id="lightbox-img" src="" alt="">
-</div>
+{% include lightbox.html %}
 
 <style>
 .masonry {
@@ -76,23 +73,6 @@ Shot on 35mm film (Kodak ColorPlus 200) during a trip to Tehran.
 }
 .masonry-item:hover img {
   opacity: 0.8;
-}
-#lightbox {
-  display: none;
-  position: fixed;
-  top: 0; left: 0;
-  width: 100vw;
-  height: 100vh;
-  background: rgba(0, 0, 0, 0.95);
-  z-index: 9999;
-  cursor: pointer;
-  justify-content: center;
-  align-items: center;
-}
-#lightbox img {
-  max-width: 90vw;
-  max-height: 90vh;
-  object-fit: contain;
 }
 .pagination {
   display: flex;
@@ -123,13 +103,3 @@ Shot on 35mm film (Kodak ColorPlus 200) during a trip to Tehran.
   .masonry { columns: 1; }
 }
 </style>
-
-<script>
-document.querySelectorAll('.masonry-item img').forEach(function(img) {
-  img.addEventListener('click', function() {
-    var lb = document.getElementById('lightbox');
-    document.getElementById('lightbox-img').src = this.src;
-    lb.style.display = 'flex';
-  });
-});
-</script>
