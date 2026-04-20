@@ -16,12 +16,20 @@ Before my current PhD, I completed a Ph.D. in Computational Mechanics, where I d
 ## Selected Publications
 
 <div class="pub-entry">
+  <img class="pub-thumb" src="/images/pub-icwsm2026.png" alt="ICWSM 2026">
+  <div class="pub-details">
+    <a href="" target="_blank">Intelligence Analysts' Perceptions and Detection of AI-Generated Visual Media: A Mixed-Methods Study</a><br>
+    <b>Negar Kamali</b>, Matthew Groh, Jessica Hullman.<br>
+    <i>ICWSM 2026 (Under Review).</i>
+  </div>
+</div>
+
+<div class="pub-entry">
   <img class="pub-thumb" src="/images/pub-acmhealth2026.png" alt="ACM Health 2026">
   <div class="pub-details">
     <a href="/files/acm-health.pdf" target="_blank">"I Don't Like Being Told Just What to Do; I Need to Know Why": Patient Expectations of Machine Learning-Driven Just-in-Time-Adaptive Interventions (JITAIs) for Prenatal Stress Management</a><br>
     Mara Ulloa, <b>Negar Kamali</b>, Gabriella Fernandes, Emmanuel Soyemi, Maia Beltzer, Brenna Kaveladze, Nabil Alshurafa, Maia Jacobs.<br>
-    <i>ACM Health 2026.</i> | <a href="/files/acm-health.pdf" target="_blank">Paper</a><br>
-    <b style="background-color:#4E2A84; color:white; font-weight:bold; padding: 2px 4px;">&#8203; Accepted &#8203;</b>
+    <i>ACM Health 2026.</i> | <a href="/files/acm-health.pdf" target="_blank">Paper</a> | Accepted
   </div>
 </div>
 
