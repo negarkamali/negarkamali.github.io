@@ -16,7 +16,10 @@ Before my current PhD, I completed a Ph.D. in Computational Mechanics, where I d
 ## Selected Publications
 
 <div class="pub-entry">
-  <a href="/images/pub-icwsm2026.png" target="_blank"><img class="pub-thumb" src="/images/pub-icwsm2026.png" alt="ICWSM 2026" style="cursor: zoom-in;"></a>
+  <a href="/images/pub-icwsm2026.png" target="_blank" style="position: relative; display: inline-block;">
+    <img class="pub-thumb" src="/images/pub-icwsm2026.png" alt="ICWSM 2026" style="cursor: zoom-in; width: 160px; height: 120px; object-fit: cover;">
+    <span style="position: absolute; bottom: 4px; right: 4px; background: rgba(0,0,0,0.7); color: white; padding: 2px 4px; border-radius: 3px; font-size: 12px;">🔍</span>
+  </a>
   <div class="pub-details">
     <a href="" target="_blank">Generative AI Literacy Training Enhances Detection Accuracy of AI-Generated Images For Intelligence Analysts</a><br>
     <b>Negar Kamali</b>, Matthew Groh, Jessica Hullman.<br>
@@ -25,7 +28,10 @@ Before my current PhD, I completed a Ph.D. in Computational Mechanics, where I d
 </div>
 
 <div class="pub-entry">
-  <a href="/images/pub-acmhealth2026.png" target="_blank"><img class="pub-thumb" src="/images/pub-acmhealth2026.png" alt="ACM Health 2026" style="cursor: zoom-in;"></a>
+  <a href="/images/pub-acmhealth2026.png" target="_blank" style="position: relative; display: inline-block;">
+    <img class="pub-thumb" src="/images/pub-acmhealth2026.png" alt="ACM Health 2026" style="cursor: zoom-in; width: 160px; height: 120px; object-fit: cover;">
+    <span style="position: absolute; bottom: 4px; right: 4px; background: rgba(0,0,0,0.7); color: white; padding: 2px 4px; border-radius: 3px; font-size: 12px;">🔍</span>
+  </a>
   <div class="pub-details">
     <a href="/files/acm-health.pdf" target="_blank">"I Don't Like Being Told Just What to Do; I Need to Know Why": Patient Expectations of Machine Learning-Driven Just-in-Time-Adaptive Interventions (JITAIs) for Prenatal Stress Management</a><br>
     Mara Ulloa, <b>Negar Kamali</b>, Gabriella Fernandes, Emmanuel Soyemi, Maia Beltzer, Brenna Kaveladze, Nabil Alshurafa, Maia Jacobs.<br>
@@ -34,7 +40,10 @@ Before my current PhD, I completed a Ph.D. in Computational Mechanics, where I d
 </div>
 
 <div class="pub-entry">
-  <a href="/images/pub-chi2025.png" target="_blank"><img class="pub-thumb" src="/images/pub-chi2025.png" alt="CHI 2025" style="cursor: zoom-in;"></a>
+  <a href="/images/pub-chi2025.png" target="_blank" style="position: relative; display: inline-block;">
+    <img class="pub-thumb" src="/images/pub-chi2025.png" alt="CHI 2025" style="cursor: zoom-in; width: 160px; height: 120px; object-fit: cover;">
+    <span style="position: absolute; bottom: 4px; right: 4px; background: rgba(0,0,0,0.7); color: white; padding: 2px 4px; border-radius: 3px; font-size: 12px;">🔍</span>
+  </a>
   <div class="pub-details">
     <a href="https://dl.acm.org/doi/full/10.1145/3706598.3713962" target="_blank">Characterizing Photorealism and Artifacts in Diffusion Model-Generated Images</a><br>
     <b>Negar Kamali</b>, Karyn Nakamura, Aakriti Kumar, Angelos Chatzimparmpas, Matthew Groh.<br>
@@ -52,7 +61,10 @@ Before my current PhD, I completed a Ph.D. in Computational Mechanics, where I d
 </div>
 
 <div class="pub-entry">
-  <a href="/images/pub-chi2024.png" target="_blank"><img class="pub-thumb" src="/images/pub-chi2024.png" alt="CHI 2024" style="cursor: zoom-in;"></a>
+  <a href="/images/pub-chi2024.png" target="_blank" style="position: relative; display: inline-block;">
+    <img class="pub-thumb" src="/images/pub-chi2024.png" alt="CHI 2024" style="cursor: zoom-in; width: 160px; height: 120px; object-fit: cover;">
+    <span style="position: absolute; bottom: 4px; right: 4px; background: rgba(0,0,0,0.7); color: white; padding: 2px 4px; border-radius: 3px; font-size: 12px;">🔍</span>
+  </a>
   <div class="pub-details">
     <a href="https://arxiv.org/abs/2401.08876" target="_blank">Utility of Conformal Prediction Sets for AI-Advised Image Labeling</a><br>
     Dongping Zhang, Angelos Chatzimparmpas, <b>Negar Kamali</b>, Jessica Hullman.<br>
