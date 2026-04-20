@@ -7,6 +7,25 @@ permalink: /publications/
 ## Publications
 
 <div class="pub-entry">
+  <img class="pub-thumb" src="/images/pub-acmhealth2026.png" alt="ACM Health 2026">
+  <div class="pub-details">
+    <a href="/files/acm-health.pdf" target="_blank">"I Don't Like Being Told Just What to Do; I Need to Know Why": Patient Expectations of Machine Learning-Driven Just-in-Time-Adaptive Interventions (JITAIs) for Prenatal Stress Management</a><br>
+    Mara Ulloa, <b>Negar Kamali</b>, Gabriella Fernandes, Emmanuel Soyemi, Maia Beltzer, Brenna Kaveladze, Nabil Alshurafa, Maia Jacobs.<br>
+    <i>ACM Health 2026.</i> | <a href="/files/acm-health.pdf" target="_blank">Paper</a><br>
+    <b style="background-color:#4E2A84; color:white; font-weight:bold; padding: 2px 4px;">&#8203; Accepted &#8203;</b>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-details">
+    <a href="" target="_blank">Intelligence Analysts' Perceptions and Detection of AI-Generated Visual Media: A Mixed-Methods Study</a><br>
+    <b>Negar Kamali</b>, Matthew Groh, Jessica Hullman.<br>
+    <i>ICWSM 2026 (Under Review).</i> | Paper forthcoming<br>
+    <b style="background-color:#4E2A84; color:white; font-weight:bold; padding: 2px 4px;">&#8203; Under Review &#8203;</b>
+  </div>
+</div>
+
+<div class="pub-entry">
   <img class="pub-thumb" src="/images/pub-chi2025.png" alt="CHI 2025">
   <div class="pub-details">
     <a href="https://dl.acm.org/doi/full/10.1145/3706598.3713962" target="_blank">Characterizing Photorealism and Artifacts in Diffusion Model-Generated Images</a><br>
@@ -30,7 +49,7 @@ permalink: /publications/
     <a href="https://dl.acm.org/doi/10.1145/3613904.3642446" target="_blank">Evaluating the Utility of Conformal Prediction Sets for AI-Advised Image Labeling</a><br>
     Dongping Zhang, Angelos Chatzimparmpas, <b>Negar Kamali</b>, Jessica Hullman.<br>
     <i>CHI 2024.</i> | <a href="https://dl.acm.org/doi/10.1145/3613904.3642446" target="_blank">Paper</a> | <a href="https://arxiv.org/abs/2401.08876" target="_blank">arXiv</a><br>
-    <b style="background-color:#e0e0e0;">&#8203; Best Paper Honorable Mention &#8203;</b>
+    <b style="background-color:#4E2A84; color:white; font-weight:bold; padding: 2px 4px;">&#8203; Best Paper Honorable Mention &#8203;</b>
   </div>
 </div>
 
