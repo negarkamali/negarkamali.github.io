@@ -22,7 +22,7 @@ Before my current PhD, I completed a Ph.D. in Computational Mechanics, where I d
   </a>
   <div class="pub-details">
     <a href="" target="_blank">Generative AI Literacy Training Enhances Detection Accuracy of AI-Generated Images For Intelligence Analysts</a><br>
-    <b>Negar Kamali</b>, Matthew Groh, Jessica Hullman.<br>
+    <b>Negar Kamali</b>, Candice Gerstner, Matthew Groh, Jessica Hullman.<br>
     <i>ICWSM 2026 (Under R&R).</i>
   </div>
 </div>
