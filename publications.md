@@ -24,9 +24,9 @@ permalink: /publications/
     <span style="position: absolute; bottom: 4px; right: 4px; background: rgba(0,0,0,0.7); color: white; padding: 2px 4px; border-radius: 3px; font-size: 12px;">🔍</span>
   </a>
   <div class="pub-details">
-    <a href="/files/acm-health.pdf" target="_blank">"I Don't Like Being Told Just What to Do; I Need to Know Why": Patient Expectations of Machine Learning-Driven Just-in-Time-Adaptive Interventions (JITAIs) for Prenatal Stress Management</a><br>
+    <a href="https://dl.acm.org/doi/10.1145/3808695" target="_blank">"I Don't Like Being Told Just What to Do; I Need to Know Why": Patient Expectations of Machine Learning-Driven Just-in-Time-Adaptive Interventions (JITAIs) for Prenatal Stress Management</a><br>
     Mara Ulloa, <b>Negar Kamali</b>, Gabriella Fernandes, Emmanuel Soyemi, Maia Beltzer, Brenna Kaveladze, Nabil Alshurafa, Maia Jacobs.<br>
-    <i>ACM Health 2026.</i> | <a href="/files/acm-health.pdf" target="_blank">Paper</a> | Accepted
+    <i>ACM Health 2026.</i> | <a href="https://dl.acm.org/doi/10.1145/3808695" target="_blank">Paper</a> | Accepted
   </div>
 </div>
 
