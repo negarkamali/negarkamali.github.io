@@ -25,7 +25,7 @@ permalink: /publications/
   </a>
   <div class="pub-details">
     <a href="https://dl.acm.org/doi/10.1145/3808695" target="_blank">"I Don't Like Being Told Just What to Do; I Need to Know Why": Patient Expectations of Machine Learning-Driven Just-in-Time-Adaptive Interventions (JITAIs) for Prenatal Stress Management</a><br>
-    Mara Ulloa, <b>Negar Kamali</b>, Gabriella Fernandes, Emmanuel Soyemi, Maia Beltzer, Brenna Kaveladze, Nabil Alshurafa, Maia Jacobs.<br>
+    Mara Ulloa, <b>Negar Kamali</b>, Glenn J. Fernandes, Elizabeth Soyemi, Miranda L. Beltzer, Nabil Alshurafa, Maia Jacobs.<br>
     <i>ACM Health 2026.</i> | <a href="https://dl.acm.org/doi/10.1145/3808695" target="_blank">Paper</a> | Accepted
   </div>
 </div>
@@ -74,7 +74,7 @@ permalink: /publications/
   </a>
   <div class="pub-details">
     <a href="https://sites.northwestern.edu/nupath/research/casmi-co-designing-patient-facing-machine-learning-for-prenatal-stress-reduction/" target="_blank">Co-Designing Patient-Facing Machine Learning for Prenatal Stress Reduction</a><br>
-    Mara Ulloa, <b>Negar Kamali</b>, Gabriella Fernandes, Emmanuel Soyemi, Maia Beltzer, Brenna Kaveladze, Nabil Alshurafa, Maia Jacobs.<br>
+    Mara Ulloa, <b>Negar Kamali</b>, Glenn J. Fernandes, Elizabeth Soyemi, Miranda L. Beltzer, Nabil Alshurafa, Maia Jacobs.<br>
     <i>ISRII 2024 (Poster), Limerick, Ireland.</i>
   </div>
 </div>
