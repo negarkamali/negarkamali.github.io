@@ -14,7 +14,7 @@ permalink: /publications/
   <div class="pub-details">
     <a href="" target="_blank">Generative AI Literacy Training Enhances Detection Accuracy of AI-Generated Images For Intelligence Analysts</a><br>
     <b>Negar Kamali</b>, Candice Gerstner, Matthew Groh, Jessica Hullman.<br>
-    <i>ICWSM 2026 (Under R&R).</i>
+    <i>ICWSM 2027.</i>
   </div>
 </div>
 

@@ -10,6 +10,8 @@ I am investigating how people detect AI-generated images and what factors make t
 
 Think you can distinguish real photos from AI-generated images? Try our <a href="https://detectfakes.kellogg.northwestern.edu/" target="_blank">DetectFakes</a> website!
 
+**AI Coaching for Cash-Transfer Recipients:** With <a href="https://www.givedirectly.org/" target="_blank">GiveDirectly</a>, I designed an LLM coach for people receiving unconditional cash transfers of around \$500, roughly two years of income where they live. The coach asks questions back so that recipients work through their own decisions about saving, spending, and handling social pressure from their community. We are testing it against GiveDirectly's existing advisor-style chatbot and evaluating thousands of WhatsApp conversations with an LLM-as-judge pipeline.
+
 ## Past Projects
 
 **Conformal Prediction for AI-Advised Decisions:** Advised by <a href="http://users.eecs.northwestern.edu/~jhullman/" target="_blank">Jessica Hullman</a>, I researched enhancing AI-advised decision-making by accurately quantifying prediction uncertainty of deep neural networks. I explored the effectiveness of conformal prediction sets as an alternative to traditional uncertainty measures, measuring how they impact human decisions in real-world image labeling scenarios. This work received a **Best Paper Honorable Mention** at CHI 2024.
