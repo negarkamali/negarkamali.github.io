@@ -19,6 +19,14 @@ permalink: /publications/
 </div>
 
 <div class="pub-entry">
+  <div class="pub-details">
+    <a href="https://arxiv.org/abs/2610.17306" target="_blank">Calibrating LLM Explanations to Human Decisions with Reinforcement Learning</a><br>
+    Dong Shu, Ziyang Guo, <b>Negar Kamali</b>, Matthew Groh, Jessica Hullman.<br>
+    <i>Under review at ICLR 2027.</i> | <a href="https://arxiv.org/abs/2610.17306" target="_blank">arXiv</a>
+  </div>
+</div>
+
+<div class="pub-entry">
   <a href="/images/pub-acmhealth2026.png" target="_blank" style="position: relative; display: inline-block;">
     <img class="pub-thumb" src="/images/pub-acmhealth2026.png" alt="ACM Health 2026" style="cursor: zoom-in; width: 160px; height: 120px; object-fit: cover;">
     <span style="position: absolute; bottom: 4px; right: 4px; background: rgba(0,0,0,0.7); color: white; padding: 2px 4px; border-radius: 3px; font-size: 12px;">🔍</span>
