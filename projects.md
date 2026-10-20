@@ -10,7 +10,11 @@ I am investigating how people detect AI-generated images and what factors make t
 
 Think you can distinguish real photos from AI-generated images? Try our <a href="https://detectfakes.kellogg.northwestern.edu/" target="_blank">DetectFakes</a> website!
 
-**AI Coaching for Cash-Transfer Recipients:** With <a href="https://www.givedirectly.org/" target="_blank">GiveDirectly</a>, I designed an LLM coach for people receiving unconditional cash transfers of around \$500, roughly two years of income where they live. The coach asks questions back so that recipients work through their own decisions about saving, spending, and handling social pressure from their community. We are testing it against GiveDirectly's existing advisor-style chatbot and evaluating thousands of WhatsApp conversations with an LLM-as-judge pipeline.
+**Mechanistic Interpretability of AI-Image Detection:** I am studying what open-weight vision-language models know about AI-generated images and whether they use it. Linear probes on model activations detect AI-generated images far better than the models' own answers (AUC 0.92, against 62% accuracy), and activation patching and region ablation indicate that the evidence is present in the model but goes unused when it writes advice. The work covers Qwen3-VL and Gemma.
+
+**LLM Coach for Cash-Transfer Recipients:** I led Northwestern's evaluation of a WhatsApp LLM coach that <a href="https://www.givedirectly.org/" target="_blank">GiveDirectly</a> deployed to cash-transfer recipients in Rwanda. I helped design a randomized comparison of two coaching prompts, built an arm-blind LLM-as-judge rubric for topics, coaching style, and plan formation, and analyzed more than 1,500 real voice and text conversation turns. GiveDirectly's product and leadership teams adopted a single-agent design and revised their prompts before launch.
+
+**Decision-Calibrated Explanations:** I contributed the human judgment data behind HD-RL, a reinforcement learning method that fine-tunes an open-weight LLM to write explanations that improve human decisions, using a reward model trained on real human choices. In a four-arm human evaluation, its explanations raised accuracy to 65.6%, against 51.9 to 55.3% for the RLVR and RLAIF baselines.
 
 ## Past Projects
 
